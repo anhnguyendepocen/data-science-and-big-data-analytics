@@ -115,4 +115,6 @@ Install IRkernel package via the devtools package:
 Per default `IRkernel::installspec()` will install a kernel with the name “ir” and a display name of “R”. Multiple calls will overwrite the kernel with a kernel spec pointing to the last R interpreter you called that commands from. You can install kernels for multiple versions of R by supplying a `name` and `displayname` argument to the `installspec()` call (You still need to install these packages in all interpreters you want to run as a jupyter kernel!):
 
 
-# Data set are availabe at [Link](https://vincentarelbundock.github.io/Rdatasets/datasets.htmldsfasd)
+# Data set are availabe:
+- [Link](https://vincentarelbundock.github.io/Rdatasets/datasets.htmldsfasd) 
+- R provides few data sets available at [Link](http://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
