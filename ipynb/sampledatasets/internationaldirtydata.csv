@@ -1,0 +1,501 @@
+Country,Region,Gender,Age-years,Handed,Height_cm,Footlength_cm,Armspan_cm,Languages_spoken,Travel_to_School,Travel_time_to_School,Reaction_time,Score_in_memory_game,Favourite_physical_activity,Importance_reducing_pollution,Importance_recycling_rubbish,Importance_conserving_water,Importance_saving_enery,Importance_owning_computer,Importance_Internet_access
+Australia,New South Wales,Female,10,Right-handed,0,0,0,2,Car,10,0.66,56,Netball,1000,947,1000,,1000,947
+Australia,Victoria,Female,14,Ambidextrous,174,25,176,1,Car,15,0.42,31,Netball,220,509,610,214,1000,1000
+New Zealand,Auckland,Female,14,Left-handed,170,26,160,2,Bus,25,0.375,,Athletics,1000,,1000,,,
+UK,South West,Female,15,Right-handed,163,22,154,1,Walk,12,0.33,41,Football/Soccer,871,998,1000,1000,871,869
+Australia,New South Wales,Female,16,Right-handed,171,22,162,2,Bus,40,2.47,31,Golf,1000,941,941,911,1000,1000
+Australia,Western Australia,Male,11,Right-handed,146,22,138,1,Car,15,0.69,36,Rugby Union,7,111,25,41,539,151
+Canada,Alberta,Female,12,Right-handed,156.5,21,161,1,Car,15,0.341,37,Swimming,824,278,91,219,941,968
+Australia,Queensland,Male,15,Right-handed,184,30,184,1,Bus,25,0.51,27,None,,,976,,982,1000
+Canada,Ontario,Female,14,Right-handed,160,22,166.5,2,Bus,35,0.391,31,Bowling,1000,1000,1000,1000,503,599
+UK,West Midlands,Male,13,Right-handed,171,26.25,171,1,Walk,20,14.08,51,Football/Soccer,365,723,756,711,1000,1000
+Australia,Tasmania,Female,11,Right-handed,147,23,119,2,Cycle,10,0.37,43,Basketball,545,1000,699,1000,1000,1000
+New Zealand,Auckland,Male,10,Right-handed,140,21,141,1,Car,5,0.4,,Football/Soccer,1000,,1000,,,
+New Zealand,Auckland,Female,10,Right-handed,150,25,150,1,Car,5,0.621,,Netball,500,,1000,,,
+Canada,Ontario,Male,12,Right-handed,148,22,152,1,Walk,15,0.016,22,Football/Soccer,476,235,219,193,1000,1000
+Canada,Ontario,Male,17,Right-handed,184.5,18.5,170,1,Bus,90,0.47,52,Other activities/sports,866,112,241,791,845,856
+Australia,Victoria,Female,7,Right-handed,121,121,21,1,Car,10,0.79,45,Cycling,1000,1000,1000,1000,,72
+UK,East Midlands,Female,11,Right-handed,155,23,158,1,Walk,5,8,88,Dancing,560,410,332,500,1000,1000
+Canada,Ontario,Female,13,Right-handed,111,23,100,1,Walk,3,0.733,32,Swimming,882,920,524,909,663,668
+Canada,Ontario,Female,12,Right-handed,145,24,144.5,2,Walk,5,0.313,29,Athletics,818,818,818,824,706,711
+UK,North West,Female,11,Right-handed,151,24,148,2,Car,10,0.42,35,Hockey (Field),500,500,1000,500,1000,992
+Canada,Alberta,Female,15,Right-handed,157.5,22,158.5,1,Car,30,1.382,39,Other activities/sports,545,321,791,524,401,508
+Canada,Ontario,Male,12,Ambidextrous,155,21,154,1,Car,5,0.328,56,Hockey (Ice),203,209,316,230,872,872
+Canada,Ontario,Male,14,Right-handed,170,28,146,1,Bus,60,0.411,168,Hockey (Ice),214,193,59,460,947,957
+Canada,Ontario,Male,14,Right-handed,168,26,173,1,Walk,1,0.281,28,Football/Soccer,481,487,487,791,1000,1000
+Australia,Tasmania,Male,16,Right-handed,183,26,193,2,Bus,22,0.28,31,Football/Soccer,722,243,728,905,456,456
+UK,Home Counties,Male,14,Right-handed,169,26,166,1,Car,15,0.5,38,Skateboarding/Rollerblading,242,500,743,1000,470,313
+Canada,Ontario,Female,16,Right-handed,165,19,165.5,1,Bus,40,0.514,33,Swimming,754,455,123,187,43,176
+Australia,Australian Capitol Territory,Female,8,Right-handed,150,25,140,1,Walk,3,0.5,53,Other activities/sports,196,563,409,383,172,456
+UK,North West,Female,15,Right-handed,165,22.5,168,1,Car,5,3.3,38,Dancing,595,584,964,660,989,1000
+New Zealand,Auckland,Female,13,Right-handed,161,23,154,1,Bus,45,0.53,,Dancing,500,,250,,,
+Australia,New South Wales,Male,11,Right-handed,149,21,144,1,Car,5,0.36,37,Basketball,755,713,611,599,815,880
+New Zealand,Northland,Male,15,Right-handed,165,23,25,2,Car,15,0.359,,Rugby,500,,500,,,
+New Zealand,Wellington,Male,12,Right-handed,146,21,142,3,Cycle,15,1.859,,Hockey (Field),750,,1000,,,
+New Zealand,Northland,Male,15,Ambidextrous,146,27,168,1,Car,5,0.344,,Other activities/sports,750,,750,,,
+Canada,New Brunswick,Male,16,Right-handed,175,25.5,185,1,Car,10,0.27,44,Basketball,674,380,599,690,893,1000
+Canada,Ontario,Female,17,Right-handed,166,27.5,162,1,Car,15,0.662,46,Dancing,1000,1000,406,471,658,813
+New Zealand,Auckland,Female,14,Right-handed,166,25,173,1,Walk,25,0.625,,Dancing,500,,750,,,
+New Zealand,Wellington,Female,13,Right-handed,155,22,156,2,Bus,25,0.453,,Dancing,500,,500,,,
+Australia,Tasmania,Male,13,Right-handed,162,28,161,2,Bus,15,0.1,67,Cricket,1000,468,1000,651,273,433
+Australia,Victoria,Male,11,Right-handed,154,26,149,1,Walk,4,0.42,,Football/Soccer,1,1000,1000,308,291,997
+Australia,New South Wales,Male,14,Right-handed,161,20,161,1,Walk,30,0.29,26,Tennis,1,1,184,1,66,78
+Australia,New South Wales,Male,12,Right-handed,156,28,165,1,Car,2,0.28,65,Rugby League,480,155,427,155,344,557
+Australia,New South Wales,Male,13,Right-handed,176,29,78,1,Rail (Train/Tram/Subway),50,0.37,51,Other activities/sports,551,545,354,139,868,761
+UK,u.s.a.,Male,18,Right-handed,170,30,172,1,Car,25,0.56,32,Bowling,958,1000,1000,993,66,39
+Canada,Nova Scotia,Female,13,Right-handed,153,23,148,2,Bus,15,0.39,36,Running/Jogging,476,701,492,476,556,968
+Australia,New South Wales,Male,14,Right-handed,160,23,130,1,Bus,30,0.49,62,Football/Soccer,503,533,444,318,1000,1000
+Australia,Western Australia,Male,14,Right-handed,185,28,190,1,Cycle,15,0.4,42,Skateboarding/Rollerblading,616,438,911,704,858,852
+Australia,New South Wales,Female,8,Right-handed,140,42,128,3,Car,50,0.45,66,Swimming,444,391,740,273,403,232
+New Zealand,Auckland,Female,13,Ambidextrous,173,32,173,1,Bus,45,0.359,,Dancing,750,,500,,,
+UK,Home Counties,Female,13,Right-handed,161,24,110,1,Walk,5,0.4,43,Football/Soccer,824,722,561,582,290,239
+New Zealand,Auckland,Male,12,Right-handed,165,27,34,1,Walk,5,0.437,,Rugby,750,,750,,,
+Canada,Ontario,Female,18,Right-handed,169,23,166,1,Bus,60,0.5,58,Walking/Hiking,310,321,390,246,663,850
+New Zealand,Auckland,Male,12,Right-handed,162,24,174,1,Walk,25,0.408,,Basketball,1000,,1000,,,
+Canada,Ontario,Male,17,Right-handed,188.5,27,187.5,1,Car,3,0.652,63,Basketball,684,738,513,824,882,813
+Canada,Ontario,Male,14,Right-handed,159,25.5,151,2,Bus,12,0.321,32,Football/Soccer,535,273,102,545,107,75
+Canada,Quebec,Female,12,Right-handed,162,24,166,2,Bus,15,0.422,48,Swimming,882,765,626,529,545,476
+Australia,South Australia,Female,13,Right-handed,166,26,169,2,Car,5,0.31,30,Netball,184,367,551,190,799,834
+New Zealand,Auckland,Female,13,Right-handed,165,22,165,1,Bus,15,0.937,,Hockey (Field),1000,,1000,,,
+New Zealand,Canterbury,Female,10,Right-handed,138,21,139,1,Car,5,0.485,,Other activities/sports,1000,,1000,,,
+New Zealand,Waikato,Male,7,Left-handed,140,23,139,1,Walk,15,0.781,,Tennis,1000,,500,,,
+Canada,Alberta,Male,12,Right-handed,146,23,146,1,Walk,15,0.517,42,Hockey (Ice),626,642,572,380,27,11
+Australia,New South Wales,Female,12,Right-handed,157,21,155,2,Walk,20,0.37,32,Netball,740,1000,557,610,982,1000
+Canada,Ontario,Male,10,Right-handed,133,25,135,3,Bus,15,0.375,46,Hockey (Ice),1000,1000,1000,1000,604,567
+Australia,South Australia,Female,14,Right-handed,165,23,158,1,Walk,25,0.6,40,Netball,657,604,834,728,687,693
+Canada,Alberta,Male,16,Right-handed,180,27,180,1,Walk,50,0.454,55,Basketball,1000,487,1000,1000,984,1000
+Australia,New South Wales,Male,12,Right-handed,154,25,149,2,Rail (Train/Tram/Subway),25,0.34,41,Rugby Union,1000,1000,1000,1000,503,669
+Australia,Western Australia,Male,12,Right-handed,161,35,161,2,Walk,2,0.31,61,Football/Soccer,291,409,604,232,1000,1000
+Canada,Alberta,Male,11,Right-handed,139,20.5,137,1,Walk,6,0.475,24,Basketball,743,807,947,786,872,984
+Canada,Quebec,Male,15,Left-handed,160,23,160,2,Bus,30,0.533,54,Football/Soccer,150,406,150,583,1000,1000
+New Zealand,Auckland,Male,14,Right-handed,173,24,174,1,Walk,15,0.344,,Football/Soccer,0,,250,,,
+Canada,Ontario,Female,12,Ambidextrous,144,20.5,147,2,Walk,5,0.468,38,Swimming,1000,1000,1000,930,433,91
+Canada,Ontario,Female,13,Right-handed,162.5,23.5,167.5,3,Car,1,0.375,48,Tennis,615,556,497,497,1000,1000
+Australia,Western Australia,Male,13,Right-handed,157,22,157,1,Car,20,0.34,38,Football/Soccer,1000,1000,1000,1000,1000,1000
+New Zealand,Auckland,Female,13,Right-handed,158,22,155,2,Bus,15,0.312,,Netball,750,,750,,,
+Australia,New South Wales,Female,9,Right-handed,163,26,164,1,Bus,40,0.5,45,Dancing,840,752,775,610,433,421
+Canada,Ontario,Male,11,Right-handed,155,22,145,1,Bus,30,0.437,48,Hockey (Ice),615,604,540,1000,230,460
+Australia,New South Wales,Female,10,Ambidextrous,143,23,136,1,Car,10,0.52,43,Gymnastics,862,874,886,892,515,743
+Australia,Queensland,Female,7,Left-handed,140,20,136,1,Cycle,10,0.84,59,Basketball,509,385,616,486,734,515
+Australia,New South Wales,Male,14,Left-handed,186,25,106,1,Car,20,0.26,46,Walking/Hiking,427,297,900,545,669,616
+Australia,New South Wales,Female,13,Right-handed,163,23,158,1,Bus,30,0.45,60,Dancing,752,740,852,551,498,793
+UK,East,Female,12,Right-handed,155,22,166,2,Car,10,0.4,49,Swimming,500,500,500,500,500,500
+Australia,Tasmania,Female,13,Right-handed,158,23,162,2,Car,20,0.42,48,Basketball,882,1000,823,598,923,645
+Australia,Western Australia,Male,9,Right-handed,145,23,145,2,Walk,1,0.45,41,Football/Soccer,1000,868,827,868,456,665
+UK,South East,Male,12,Left-handed,155,25,142,2,Cycle,15,0.82,43,Cricket,749,622,500,500,128,56
+Australia,New South Wales,Female,11,Right-handed,130,30,150,1,Bus,25,0.37,52,Gymnastics,297,1000,811,1000,255,592
+Australia,New South Wales,Female,12,Right-handed,152,22,152,1,Car,10,0.4,30,Netball,809,1000,916,671,384,163
+UK,North West,Female,12,Left-handed,153,23,150,7,Walk,30,0.87,49,Dancing,1000,1000,1000,1000,1000,1000
+Australia,New South Wales,Male,11,Right-handed,139,20,139,1,Car,10,0.4,47,Baseball/Softball,1000,1000,815,821,641,773
+Australia,South Australia,Male,15,Right-handed,166,28,170,1,Cycle,22,0.26,24,Football/Soccer,1000,811,811,864,1000,1000
+Australia,South Australia,Female,8,Right-handed,144,22,139,1,Car,10,0.4,41,Dancing,834,722,1000,829,533,503
+Australia,New South Wales,Male,11,Right-handed,147,25,147,1,Car,7,0.35,40,Rugby League,1000,1000,1000,1000,31,38
+UK,South,Female,13,Right-handed,161,22.5,164.5,1,Walk,5,0.32,30,Dancing,752,620,541,897,626,743
+Australia,Victoria,Female,12,Right-handed,164,25,168,2,Car,3,0.46,40,Dancing,728,734,1000,1000,,220
+Australia,New South Wales,Male,15,Ambidextrous,177,30,184,2,Walk,15,0.32,38,Football/Soccer,805,36,214,503,1000,1000
+Australia,Western Australia,Male,14,Right-handed,173,25,180,1,Car,10,0.39,43,Athletics,297,149,137,610,208,521
+UK,Home Counties,Female,14,Right-handed,164,22,162,1,Car,15,1.29,44,Dancing,622,1000,743,1000,327,566
+Canada,Ontario,Male,15,Ambidextrous,180,30,162,2,Bus,10,0.412,48,Football/Soccer,128,107,1000,75,1000,1000
+Australia,New South Wales,Male,10,Right-handed,138,21,138,1,Car,5,0.51,78,Other activities/sports,858,1000,840,805,285,1000
+New Zealand,Manawatu-Wanganui,Male,11,Right-handed,148,19,148,1,Walk,25,1.796,,Rugby,750,,500,,,
+Australia,Victoria,Male,11,Right-handed,150,23,145,1,Car,4,0.34,38,Tennis,888,799,817,799,1000,1000
+Australia,New South Wales,Male,13,Right-handed,168,26,156,1,Bus,52,0.36,24,Rugby Union,237,385,557,332,1000,1000
+Canada,Ontario,Female,14,Right-handed,154,24,160,1,Bus,20,0.297,60,Basketball,11,11,5,16,1000,1000
+Australia,South Australia,Male,16,Right-handed,185,28,186,1,Car,10,0.37,48,Hockey (Ice),746,817,651,634,415,545
+New Zealand,Auckland,Female,12,Right-handed,162,22,164,2,Car,25,0.506,,Other activities/sports,1000,,500,,,
+Australia,Western Australia,Female,11,Right-handed,134,21,129,2,Car,5,0.54,35,Dancing,1000,1000,1000,1000,1,
+UK,North West,Female,13,Left-handed,154,24,90,1,Bus,45,1.03,40,Other activities/sports,613,806,677,355,129,0
+New Zealand,Wellington,Female,14,Right-handed,164,25,173,1,Car,25,0.422,,Tennis,750,,250,,,
+Canada,Alberta,Male,14,Right-handed,163,32,164,1,Walk,10,0.361,46,Other activities/sports,16,21,16,16,1000,1000
+New Zealand,Auckland,Male,14,Right-handed,185,30,21,6,Car,15,0.422,,Other activities/sports,500,,500,,,
+Australia,Queensland,Female,15,Right-handed,159,23,156,2,Walk,1,0.53,36,Tennis,1000,651,651,1000,1000,793
+Australia,Victoria,Male,16,Right-handed,162,30,162,1,Bus,5,0.29,47,Other activities/sports,1000,1000,1000,1000,196,503
+New Zealand,Wellington,Male,15,Right-handed,175,30,90,2,Bus,15,0.36,,Basketball,1000,,750,,,
+Canada,Ontario,Female,13,Right-handed,166,25.5,167,1,Bus,15,0.391,60,Hockey (Ice),1000,1000,1000,1000,524,166
+New Zealand,Waikato,Male,9,Right-handed,138,10,148,1,Car,25,0.407,,Other activities/sports,500,,1000,,,
+Australia,Queensland,Female,14,Right-handed,161,22,158,1,Bus,60,0.39,26,Football/Soccer,1000,521,527,734,320,539
+Australia,Victoria,Female,12,Right-handed,161,21,24,2,Car,10,0.73,29,Football/Soccer,1000,1000,1000,332,379,255
+Australia,Western Australia,Female,11,Right-handed,153,23,154,2,Car,10,0.37,34,Other activities/sports,1000,1000,1000,1000,545,403
+New Zealand,Canterbury,Female,10,Right-handed,138,20,131,1,Bus,15,0.532,,Football/Soccer,500,,750,,,
+Canada,Quebec,Female,13,Right-handed,166,22,169,3,Bus,15,1,34,Football/Soccer,492,497,492,492,497,503
+Australia,Queensland,Female,13,Left-handed,166,26,166,2,Car,5,0.48,38,Dancing,1000,1000,1000,1000,1000,1000
+Australia,Victoria,Male,7,Right-handed,153,25,162,1,Car,17,0.34,49,Other activities/sports,373,421,645,456,846,858
+Australia,Western Australia,Male,12,Right-handed,157,25,165,1,Car,20,0.39,78,Football/Soccer,167,492,42,96,574,584
+Australia,New South Wales,Male,11,Right-handed,142,22,150,1,Walk,6,3.58,33,Other activities/sports,882,876,882,515,917,1000
+Australia,Queensland,Female,9,Right-handed,137,21,132,1,Car,2,0.4,45,Gymnastics,1000,1000,1000,1000,1000,1000
+Canada,Saskatchewan,Male,10,Right-handed,146.5,24,149,1,Cycle,5,0.375,46,Hockey (Ice),658,545,765,850,358,70
+Australia,New South Wales,Female,9,Right-handed,142,21,160,2,Walk,2,0.34,47,Netball,1000,1000,1000,1000,1,1
+New Zealand,Otago,Female,14,Right-handed,158,26,158,2,Walk,15,0.428,,Netball,750,,500,,,
+Canada,Ontario,Female,13,Right-handed,157.5,25.5,164.5,2,Walk,7,0.501,29,Dancing,743,508,433,684,91,348
+Australia,Queensland,Female,14,Right-handed,162,23,163,1,Bus,10,0.43,36,Netball,982,1000,1000,982,66,137
+New Zealand,Wellington,Male,11,Right-handed,144,25,147,1,Walk,5,1.802,,Rugby,500,,0,,,
+Australia,New South Wales,Female,11,Right-handed,168,30,96,1,Bus,35,0.53,43,Netball,1000,1000,474,1000,509,1000
+New Zealand,Auckland,Female,9,Left-handed,141,23,142,1,Car,25,0.406,,Dancing,750,,750,,,
+Australia,Queensland,Male,14,Right-handed,165,25,160,1,Walk,15,0.28,48,Other activities/sports,817,811,817,817,,243
+Australia,Western Australia,Female,13,Left-handed,157,23,158,1,Car,5,0.49,31,Tennis,1000,521,456,279,72,48
+Canada,Ontario,Male,13,Ambidextrous,156,28,154,1,Car,4,0.491,36,Bowling,417,118,754,578,759,1000
+New Zealand,Waikato,Male,12,Right-handed,152,23,148,1,Car,15,0.483,,Football/Soccer,0,,250,,,
+Canada,Ontario,Male,10,Right-handed,152,23.5,150.5,1,Bus,10,0.516,62,Martial arts,963,615,658,11,1000,337
+Australia,South Australia,Male,9,Right-handed,124,7,130,1,Bus,6,0.37,64,Football/Soccer,1000,1000,1000,592,208,752
+Canada,Alberta,Male,11,Right-handed,150,23.5,149.5,1,Car,15,0.411,44,Football/Soccer,503,503,695,513,455,460
+Canada,Ontario,Female,17,Right-handed,162,21,162,1,Car,10,0.381,31,Rowing,556,551,706,888,70,64
+Australia,South Australia,Female,12,Right-handed,152,24,156,1,Bus,25,0.4,32,Netball,252,338,746,167,563,261
+New Zealand,Auckland,Male,12,Right-handed,141,23,143,1,Walk,5,0.375,,None,1000,,750,,,
+Canada,Ontario,Female,15,Right-handed,168,29,170,1,Car,5,0.407,30,Walking/Hiking,786,786,497,283,1000,1000
+UK,West Midlands,Male,13,Right-handed,147,22,151,1,Cycle,5,0.4,102,Cycling,716,707,664,500,579,604
+Australia,Victoria,Male,10,Right-handed,145,25,56,1,Cycle,3,0.4,99,Rugby Union,291,433,574,888,610,693
+Australia,Victoria,Female,11,Ambidextrous,165,27,165,2,Car,4,1.23,29,Tennis,829,651,634,710,840,894
+Canada,Nova Scotia,Female,14,Right-handed,168,27.5,165.5,1,Car,3,0.313,38,Swimming,1000,1000,1000,1000,1000,1000
+Australia,New South Wales,Male,10,Right-handed,156,24,147,1,Bus,60,0.32,56,Cricket,1000,492,1000,1000,172,1000
+Australia,Western Australia,Male,12,Right-handed,155,24,154,1,Rail (Train/Tram/Subway),20,0.35,51,Cycling,438,574,273,734,220,172
+Australia,Victoria,Male,9,Right-handed,145,20,142,1,Car,4,0.35,70,Football/Soccer,1000,734,1000,1000,1,
+Canada,Manitoba,Female,14,Right-handed,157,23,155,1,Walk,20,0.359,23,Dancing,487,631,401,422,893,920
+UK,South,Male,14,Right-handed,156,32,156,3,Car,10,0.45,29,Cricket,774,701,824,627,1000,1000
+Australia,Western Australia,Male,12,Right-handed,153,24,154,1,Rail (Train/Tram/Subway),35,0.31,42,Football/Soccer,498,350,350,622,657,1000
+New Zealand,Canterbury,Female,14,Right-handed,172,25,175,2,Car,5,0.44,,Other activities/sports,0,,0,,,
+UK,South,Male,14,Right-handed,178,29,178,1,Cycle,5,8,99,Athletics,500,500,500,500,500,500
+Australia,New South Wales,Male,12,Right-handed,153,25,158,1,Car,6,0.45,39,Rugby League,740,362,220,66,13,385
+UK,Home Counties,Female,12,Right-handed,152,21,148,1,Bus,30,0.32,54,Athletics,360,416,438,595,812,843
+Canada,Ontario,Female,14,Right-handed,166,24,164,1,Bus,30,0.401,43,Tennis,326,599,64,80,1000,1000
+Canada,Ontario,Male,13,Right-handed,176,29,176,1,Walk,10,0.561,38,Swimming,1000,1000,1000,1000,444,449
+New Zealand,Auckland,Male,11,Right-handed,155,24,154,2,Walk,15,0.85,,Football/Soccer,1000,,1000,,,
+Australia,Tasmania,Male,17,Right-handed,166,27,166,1,Bus,20,0.32,51,Football/Soccer,285,367,876,645,96,131
+Australia,South Australia,Female,16,Ambidextrous,158,23,160,1,Car,5,2.7,40,Walking/Hiking,1000,1000,1000,1000,781,1000
+Australia,South Australia,Female,13,Right-handed,173,25,173,2,Bus,15,0.37,37,Netball,681,988,693,1000,1000,1000
+UK,nepal,Male,14,Right-handed,188,21,92,2,Bus,10,0.61,75,Table Tennis,500,500,500,500,500,500
+Australia,Western Australia,Female,15,Right-handed,167,23,171,1,Bus,70,0.4,37,Dancing,267,,1000,96,113,72
+Australia,Queensland,Female,13,Right-handed,157,25,159,1,Bus,20,0.32,39,Athletics,486,492,503,391,574,568
+UK,London,Male,11,Right-handed,160,28,166,3,Bus,35,0.36,46,Cricket,0,806,500,1000,53,0
+UK,South,Male,14,Left-handed,176,26,172,1,Walk,13,0.29,31,Basketball,199,179,197,1000,687,696
+UK,East,Female,13,Right-handed,155,24,149,4,Bus,50,0.29,33,Other activities/sports,730,254,755,770,623,623
+Canada,Ontario,Female,11,Right-handed,140,22.5,145.5,1,Bus,45,0.321,58,Gymnastics,1000,487,1000,1000,1000,1000
+New Zealand,Otago,Female,11,Right-handed,146,22,145,1,Bus,45,0.687,,Tennis,1000,,750,,,
+Australia,South Australia,Female,10,Right-handed,133,20,130,1,Car,5,0.42,55,Athletics,,,,,427,409
+Australia,Australian Capitol Territory,Male,12,Right-handed,150,27,150,1,Car,2,0.5,62,Football/Soccer,402,420,444,545,498,623
+Canada,Ontario,Female,14,Right-handed,158.5,23.5,152.5,3,Walk,10,0.438,32,Other activities/sports,1000,1000,1000,1000,1000,1000
+Canada,Ontario,Female,16,Right-handed,159,21.5,154,3,Bus,20,0.313,34,Walking/Hiking,754,797,1000,455,75,1000
+Australia,New South Wales,Male,15,Right-handed,171,28,180,2,Rail (Train/Tram/Subway),30,0.33,44,Table Tennis,300,288,,1000,79,228
+Australia,New South Wales,Female,13,Right-handed,152,22,157,3,Car,10,0.65,46,Hockey (Field),846,533,982,693,444,456
+Canada,Ontario,Female,12,Left-handed,163.5,24.5,161.5,1,Bus,20,0.578,39,Swimming,503,583,455,278,690,578
+Australia,New South Wales,Female,14,Right-handed,163,15,163,2,Car,20,0.39,34,Other activities/sports,243,527,710,817,433,580
+UK,South,Male,13,Right-handed,163,31,171,1,Walk,1,0.53,53,Football/Soccer,635,739,687,718,997,1000
+Canada,Quebec,Female,11,Right-handed,142,22,153,3,Rail,40,0.391,58,Dancing,775,658,711,968,32,11
+Australia,Queensland,Male,12,Left-handed,160,25,165,1,Walk,15,0.37,24,Rugby League,184,367,545,196,1,
+Canada,Ontario,Female,13,Left-handed,161,22,156,1,Car,4,0.532,50,Football/Soccer,1000,914,1000,1000,775,1000
+Australia,Queensland,Female,11,Right-handed,144,25,140,1,Bus,25,0.4,48,Walking/Hiking,1000,1000,1000,1000,226,356
+Australia,South Australia,Female,18,Right-handed,171,24,173,2,Bus,40,0.42,52,Swimming,704,704,728,752,858,852
+Canada,Ontario,Female,17,Right-handed,170,24,167,3,Bus,5,0.44,48,Dancing,578,583,594,599,348,492
+New Zealand,Canterbury,Male,10,Right-handed,140,21,56,1,Cycle,15,0.383,,Rugby,1000,,750,,,
+New Zealand,Auckland,Female,11,Right-handed,146,22,142,1,Bus,5,0,,Rugby,1000,,1000,,,
+Australia,South Australia,Male,15,Right-handed,170,26,170,1,Bus,10,0.28,26,Football/Soccer,273,232,639,409,829,935
+Australia,Victoria,Male,10,Ambidextrous,130,21,130,2,Bus,5,0.43,64,Netball,1000,1000,1000,1000,749,761
+Australia,New South Wales,Female,13,Right-handed,146,40,137,1,Bus,25,0.23,35,Hockey (Field),752,699,781,568,143,155
+Canada,Ontario,Male,8,Right-handed,136.5,23,116,2,Bus,20,0.461,48,Golf,1000,1000,1000,658,43,535
+UK,North West,Female,14,Right-handed,158,26,120,1,Car,5,0.35,49,Dancing,304,92,349,600,636,640
+New Zealand,Manawatu-Wanganui,Female,12,Right-handed,166,25,163,4,Car,25,0.362,,Hockey (Field),750,,750,,,
+New Zealand,Waikato,Male,12,Right-handed,140,20,134,2,Bus,5,3,,Rugby,500,,500,,,
+New Zealand,Auckland,Female,10,Right-handed,163,25,155,1,Car,5,0.588,,Hockey (Field),500,,500,,,
+UK,England,Female,11,Right-handed,137.5,19.5,142,1,Car,30,0.42,34,Other activities/sports,1000,1000,1000,1000,500,558
+New Zealand,Auckland,Male,12,Left-handed,150,23,140,2,Car,5,0.37,,Football/Soccer,750,,500,,,
+Canada,Ontario,Female,17,Left-handed,167,25,170,1,Walk,9,0.38,20,Dancing,503,230,316,193,947,947
+Australia,Tasmania,Female,15,Left-handed,161,22,157,1,Bus,15,0.28,36,Dancing,486,267,592,373,557,586
+New Zealand,Waikato,Male,11,Right-handed,152,23,152,2,Walk,5,0.485,,Football/Soccer,250,,0,,,
+Australia,New South Wales,Male,12,Right-handed,150,25,155,1,Car,1,0.43,44,Table Tennis,1000,970,492,1000,1000,1000
+Canada,Quebec,Male,15,Right-handed,174.5,25,174.5,1,Walk,8,0.301,32,Cycling,471,481,460,738,540,540
+Canada,Ontario,Male,13,Right-handed,168,27,172,2,Car,25,0.571,72,Basketball,604,513,663,888,396,492
+Canada,British Columbia,Female,10,Right-handed,131,20,118.5,2,Walk,5,0.39,57,Bowling,465,727,775,695,187,882
+UK,South East,Male,15,Ambidextrous,182.88,27,178,3,Car,30,0.28,49,Cycling,0,0,0,0,951,834
+Canada,New Brunswick,Male,10,Right-handed,131.5,24.5,131.5,1,Bus,1,0.518,281,Skateboarding/Rollerblading,738,1000,1000,118,96,96
+UK,East,Female,13,Right-handed,161,22.5,158,1,Bus,25,0.62,35,Dancing,1000,1000,710,355,194,161
+Australia,Queensland,Male,15,Ambidextrous,160,10,150,3,Boat,45,0.34,,Tennis,255,31,41,111,51,51
+Australia,Queensland,Female,16,Right-handed,158,22,140,2,Walk,35,0.56,50,Other activities/sports,1000,344,663,657,492,492
+Australia,New South Wales,Male,14,Left-handed,168,27,67,1,Bus,20,0.31,36,Rugby Union,492,474,1000,19,161,202
+Australia,New South Wales,Female,12,Right-handed,156,23,157,2,Bus,20,0.32,37,Hockey (Field),1000,740,923,781,60,48
+Canada,Ontario,Female,10,Right-handed,150,22,127,1,Walk,4,0.938,113,Basketball,481,1000,1000,898,417,294
+New Zealand,Auckland,Female,10,Left-handed,136,20,136,1,Walk,5,2.203,,Football/Soccer,1000,,1000,,,
+Australia,Queensland,Male,12,Left-handed,155,25,130,1,Car,5,0.34,30,Hockey (Field),1000,1000,1000,1000,1000,1000
+Australia,Victoria,Female,12,Ambidextrous,167,33,164,1,Car,5,0.71,56,Basketball,722,545,1000,474,,598
+UK,South,Female,13,Right-handed,154,22,150,1,Walk,20,1.18,36,Gymnastics,1000,1000,769,760,639,648
+Australia,Victoria,Male,7,Right-handed,149,23,144,1,Bus,20,0.34,51,Football/Soccer,1000,1000,1000,1000,196,190
+Australia,South Australia,Male,11,Right-handed,146,22,137,1,Car,10,0.37,35,Football/Soccer,1000,533,764,1000,704,734
+Canada,Ontario,Female,13,Right-handed,159,22,159,2,Car,10,0.25,28,Other activities/sports,717,235,455,626,626,626
+Canada,Ontario,Male,15,Right-handed,167,29,162,2,Bus,30,0.497,31,Running/Jogging,118,337,37,807,1000,1000
+New Zealand,Auckland,Male,13,Right-handed,163,25,157,2,Car,5,4,,None,1000,,1000,,,
+UK,South,Female,14,Right-handed,163,25,165,3,Bus,20,0.82,41,Cricket,716,544,609,604,1000,1000
+Australia,Tasmania,Male,14,Right-handed,179,26,178,1,Walk,10,0.37,47,Martial arts,1000,1000,569,599,372,360
+Canada,Ontario,Male,15,Right-handed,184,28,184,1,Bus,40,0.432,37,Athletics,406,610,59,348,791,845
+UK,Home Counties,Male,12,Left-handed,152,24,150,3,Bus,25,0.37,41,Tennis,0,0,416,0,0,0
+Australia,South Australia,Female,12,Ambidextrous,147,21,145,2,Car,2,0.39,51,Netball,104,113,273,172,1000,1000
+Australia,South Australia,Female,9,Right-handed,133,20,127,1,Car,5,0.54,56,Dancing,1000,1000,545,300,103,378
+New Zealand,Auckland,Female,15,Left-handed,160,25,159,1,Walk,25,0.375,,Dancing,500,,500,,,
+Australia,Victoria,Female,14,Right-handed,160,24,158,2,Bus,40,0.34,33,Tennis,498,474,515,498,131,190
+Canada,Ontario,Female,17,Right-handed,170,24,175,1,Bus,35,0.61,53,Dancing,540,449,96,316,727,904
+New Zealand,Auckland,Female,14,Right-handed,155,24,155,1,Walk,45,0.406,,Other activities/sports,750,,500,,,
+New Zealand,Waikato,Female,13,Right-handed,177,25,174,1,Bus,45,0.314,,Netball,750,,500,,,
+New Zealand,Auckland,Female,10,Right-handed,152,23,152,2,Car,5,0.5,,Netball,1000,,500,,,
+Australia,New South Wales,Female,13,Right-handed,166,25,170,4,Car,9,0.35,35,Dancing,1000,651,669,308,302,503
+UK,East,Female,13,Right-handed,161,23.5,167,1,Bus,25,0.34,31,Skateboarding/Rollerblading,500,500,129,323,1000,1000
+Australia,Western Australia,Female,15,Right-handed,178,25,184,1,Car,3,0.34,58,Netball,1000,1000,1000,1000,639,704
+Australia,Western Australia,Female,14,Right-handed,168,20,165,1,Walk,5,0.42,42,Netball,486,96,498,492,563,675
+Australia,Victoria,Male,12,Right-handed,169,28,169,2,Skateboard/Scooter/Rollerblade,15,0.48,90,Football/Soccer,1000,1000,1000,1000,,
+Australia,Victoria,Male,11,Right-handed,155,24,155,2,Walk,15,0.37,44,Tennis,805,876,834,734,639,622
+Australia,New South Wales,Male,15,Right-handed,174,24,173,1,Car,7,0.36,36,Basketball,568,586,941,474,1000,1000
+Canada,Ontario,Male,13,Right-handed,161,25,161,1,Walk,10,0.611,30,Hockey (Ice),770,503,460,257,1000,1000
+UK,West Midlands,Female,14,Right-handed,150,23,158,2,Bus,45,0.37,40,Dancing,500,500,500,500,1000,500
+Australia,Victoria,Male,14,Right-handed,171,34,175,1,Car,10,0.74,41,Tennis,1000,1000,1000,1000,96,119
+Australia,New South Wales,Female,9,Right-handed,142,23,143,1,Walk,5,0.46,44,Dancing,1000,1000,1000,870,1,
+UK,East Midlands,Female,14,Right-handed,173,26,170,1,Walk,25,0.37,27,Netball,709,716,685,738,385,405
+Australia,Victoria,Female,12,Ambidextrous,145,24,64,1,Car,3,0.74,92,Other activities/sports,1000,864,1000,852,243,557
+UK,East Midlands,Male,13,Left-handed,159,12,158,1,Cycle,15,2.64,32,Skateboarding/Rollerblading,0,0,36,0,999,1000
+Australia,South Australia,Male,15,Right-handed,175,25,112,2,Car,12,0.29,41,Other activities/sports,1000,882,1000,704,1000,1000
+UK,Home Counties,Male,13,Left-handed,161,26,160,1,Bus,47,0.34,36,Football/Soccer,774,613,290,516,1000,1000
+Australia,Victoria,Male,11,Right-handed,137,137,144,1,Car,15,0.42,65,Skateboarding/Rollerblading,669,551,864,462,764,557
+Australia,Tasmania,Female,12,Right-handed,155,21,155,1,Walk,10,0.5,45,Hockey (Field),635,250,1000,1000,,
+Canada,Ontario,Female,11,Right-handed,146.5,23.5,140,2,Walk,2,0.656,29,Football/Soccer,519,674,428,1000,727,717
+New Zealand,Auckland,Male,10,Right-handed,139,23,144,2,Walk,15,0.343,,Basketball,1000,,1000,,,
+Canada,Quebec,Female,13,Right-handed,150,23,150,2,Bus,10,0.312,39,Football/Soccer,1000,1000,1000,1000,487,487
+Canada,Ontario,Male,15,Ambidextrous,171,28,177.5,3,Walk,5,0.281,45,Basketball,1000,952,963,524,535,535
+Australia,South Australia,Male,17,Right-handed,178,27,175,1,Car,8,0.27,22,Other activities/sports,947,1000,988,1000,1000,1000
+Canada,Ontario,Male,14,Right-handed,169.5,29.5,169.5,2,Car,20,0.797,36,Tennis,1000,1000,1000,1000,471,27
+Australia,New South Wales,Female,11,Right-handed,158,25,144,1,Bus,15,0.32,40,Other activities/sports,450,261,586,367,450,427
+Australia,New South Wales,Male,11,Right-handed,140,20,148,1,Car,10,0.55,37,Hockey (Field),1000,1000,1000,545,498,515
+Australia,Victoria,Male,10,Right-handed,137,64,256,1,Car,20,0.6,84,Other activities/sports,1000,,1000,1000,,474
+Australia,South Australia,Male,16,Ambidextrous,186,29,186,1,Car,50,0.34,43,Martial arts,1000,1000,1000,1000,1000,1000
+Australia,Victoria,Female,11,Left-handed,150,24,147,1,Car,3,0.81,72,Dancing,202,172,746,716,681,1000
+Australia,Victoria,Male,10,Ambidextrous,140,20,128,1,Car,2,0.39,63,Football/Soccer,450,876,438,326,498,362
+New Zealand,Auckland,Female,12,Right-handed,152,24,158,1,Car,5,0.828,,Football/Soccer,1000,,1000,,,
+Australia,Victoria,Male,11,Right-handed,137,20,40,1,Car,5,0.12,31,Football/Soccer,1000,1000,1000,870,1000,999
+Canada,Ontario,Male,13,Right-handed,160,25,152,2,Car,10,0.918,42,Skateboarding/Rollerblading,1000,1000,1000,1000,845,1000
+Canada,Ontario,Male,18,Right-handed,170,24,170,1,Bus,5,0.33,41,Rugby League,1000,1000,1000,1000,251,257
+New Zealand,Auckland,Female,14,Right-handed,174,34,107,1,Walk,5,0.375,,Other activities/sports,500,,750,,,
+Australia,Victoria,Female,13,Right-handed,154,22,158,1,Car,10,0.34,36,Other activities/sports,1000,1000,1000,1000,1000,1000
+Australia,South Australia,Male,13,Right-handed,171,27,170,1,Car,15,0.26,37,Hockey (Field),367,391,634,905,1000,1000
+New Zealand,Waikato,Male,12,Right-handed,147,25,123,3,Bus,15,0.391,,Football/Soccer,750,,500,,,
+Australia,New South Wales,Male,11,Right-handed,142,22,138,3,Car,2,0.54,51,Gymnastics,1000,521,1000,1000,527,527
+Canada,Ontario,Female,13,Right-handed,157,24,151.5,3,Bus,5,0.343,44,Football/Soccer,310,551,807,791,160,134
+Canada,Île-du-Prince-Édouard,Female,13,Right-handed,150,24,150,2,Bus,45,0.825,29,Basketball,1000,759,856,872,1000,1000
+New Zealand,Auckland,Male,15,Right-handed,176,27,181,4,Car,15,0.397,,Golf,0,,0,,,
+UK,South West,Male,13,Right-handed,179.5,24,169.5,1,Bus,20,0.69,73,Football/Soccer,1000,1000,1000,1000,1000,1000
+Australia,Australian Capitol Territory,Female,10,Right-handed,146,20,144,1,Skateboard/Scooter/Rollerblade,5,0.5,37,Football/Soccer,1000,1000,1000,527,970,990
+Australia,Australian Capitol Territory,Female,11,Right-handed,145,22,146,2,Car,4,0.42,42,Dancing,1000,829,829,1000,769,480
+UK,North West,Female,13,Right-handed,162,23,160,1,Car,10,0.31,40,Football/Soccer,1000,1000,993,1000,1000,1000
+Canada,Ontario,Male,13,Right-handed,177.5,30,182,2,Bus,20,0.594,53,Basketball,1000,1000,1000,1000,1000,1000
+Canada,Manitoba,Male,13,Right-handed,162,24.5,165,2,Walk,15,0.375,33,Basketball,567,396,695,759,829,909
+Canada,Ontario,Female,11,Right-handed,155,24,150,3,Car,5,1.17,41,Hockey (Ice),369,481,802,529,540,668
+Canada,Quebec,Female,16,Ambidextrous,161,23.5,164.5,3,Bus,8,0.351,45,Other activities/sports,1000,1000,1000,481,1000,1000
+Canada,Ontario,Male,14,Right-handed,152.5,26,155.5,1,Walk,2,0.497,39,Hockey (Ice),717,604,695,1000,316,353
+New Zealand,Manawatu-Wanganui,Female,9,Right-handed,125,19,125,1,Walk,25,0.453,,Hockey (Field),1000,,1000,,,
+New Zealand,Auckland,Male,10,Left-handed,141,22,132,1,Car,5,1.314,,Martial Arts,1000,,750,,,
+Australia,Western Australia,Male,10,Left-handed,152,24,158,1,Cycle,5,0.37,98,Football/Soccer,409,214,616,373,687,474
+UK,North West,Female,14,Right-handed,166,25,166,1,Walk,45,0.36,51,Dancing,521,1000,805,810,521,526
+Australia,New South Wales,Male,13,Right-handed,158,23,160,1,Bus,20,0.29,34,Football/Soccer,651,610,805,663,634,669
+Canada,Ontario,Female,12,Right-handed,160,25,165,3,Bus,30,0.829,26,Other activities/sports,738,759,856,850,112,96
+Australia,South Australia,Male,11,Right-handed,144,22,143,1,Car,5,0.4,37,Football/Soccer,379,415,527,521,1000,1000
+Canada,Prince Edward Island,Male,12,Right-handed,145,21,155,2,Car,1,0.49,66,Hockey (Ice),652,663,674,765,813,1000
+Canada,Ontario,Male,12,Right-handed,160,26,158,2,Walk,12,0.625,51,Football/Soccer,513,235,610,540,1000,1000
+Australia,Victoria,Female,15,Right-handed,169,22,161,1,Walk,15,0.35,34,Netball,965,970,1000,1000,96,131
+Canada,Ontario,Female,14,Ambidextrous,164,24,163,1,Bus,10,0.762,44,Baseball/Softball,417,235,540,620,882,963
+Australia,Victoria,Male,11,Right-handed,157,24,160,1,Car,40,0.45,58,Football/Soccer,1000,734,1000,196,433,480
+Australia,Tasmania,Female,13,Right-handed,175,25,181,1,Car,15,0.42,42,Netball,509,444,444,396,378,569
+UK,North West,Male,14,Right-handed,165,24.5,158,1,Walk,5,0.31,56,Cycling,997,1000,500,1000,0,0
+UK,Home Counties,Male,12,Right-handed,153,24,150,2,Bus,45,0.51,47,Rowing,749,785,230,333,1000,1000
+New Zealand,Canterbury,Female,11,Right-handed,144,21,143,1,Bus,15,0.535,,Netball,1000,,750,,,
+Australia,Tasmania,Male,9,Right-handed,138,21,128,2,Bus,5,0.35,73,Bowling,1000,1000,1000,1000,1000,1000
+UK,North West,Male,14,Right-handed,165,24,166,1,Bus,50,0.29,35,Rugby Union,559,586,553,544,687,799
+Canada,Nova Scotia,Female,14,Right-handed,166,24,145,2,Bus,40,0.515,34,Football/Soccer,594,594,241,230,1000,1000
+Canada,British Columbia,Male,12,Right-handed,160.5,25.5,150.5,1,Car,2,0.33,48,Football/Soccer,984,979,1000,717,856,230
+Canada,Manitoba,Female,11,Right-handed,140,21,145,2,Car,6,1,30,Basketball,866,1000,882,791,535,529
+Australia,New South Wales,Female,14,Right-handed,156,23,162,3,Car,18,0.4,59,Netball,1000,1000,1000,1000,1000,1000
+Canada,Ontario,Female,15,Right-handed,150.5,25.5,149,1,Walk,2,0.553,46,Hockey (Ice),963,989,909,930,930,1000
+Canada,Ontario,Female,12,Right-handed,154.5,22,150,2,Car,25,0.562,39,Other activities/sports,1000,1000,513,519,1000,1000
+Australia,New South Wales,Male,13,Right-handed,165,24,156,2,Bus,10,0.29,39,Rugby Union,356,1000,456,42,1000,1000
+New Zealand,Otago,Female,15,Right-handed,160,25,162,2,Walk,15,0.69,,Rugby,250,,250,,,
+Canada,Ontario,Male,13,Right-handed,168,26.5,172.5,2,Board,15,0.5,63,Skateboarding/Rollerblading,888,487,1000,989,1000,1000
+Canada,Quebec,Female,15,Right-handed,162.5,25.5,165.5,2,Bus,55,0.734,71,Dancing,337,1000,492,406,1000,1000
+UK,Home Counties,Female,14,Right-handed,166,25,145,3,Walk,25,0.3,45,Table Tennis,736,728,893,749,747,759
+Australia,Western Australia,Female,14,Left-handed,161,23,161,1,Car,4,0.36,37,Rowing,433,551,681,976,1000,1000
+Australia,Tasmania,Male,13,Right-handed,155,24,155,1,Walk,5,0.4,56,Other activities/sports,1,1,,,1000,330
+New Zealand,Wellington,Female,13,Right-handed,169,23,168,1,Car,15,0.422,,Football/Soccer,1000,,250,,,
+UK,East Midlands,Male,12,Right-handed,158,28,160,2,Cycle,10,3.69,100,Cycling,488,0,1000,1000,1000,1000
+Canada,Ontario,Female,13,Right-handed,164.5,24,165,1,Bus,30,0.328,40,Dancing,455,1000,695,1000,16,80
+Australia,Queensland,Male,13,Right-handed,158,25,159,4,Bus,64,0.65,54,Cricket,379,515,1000,746,486,1000
+Australia,Queensland,Male,11,Left-handed,139,22,126,2,Car,7,0.6,100,Martial arts,557,834,781,864,752,876
+Australia,Victoria,Female,15,Right-handed,161,22,161,1,Car,3,0.34,23,Other activities/sports,787,787,787,793,,616
+Canada,Ontario,Male,14,Right-handed,166,26,174.5,2,Car,6,0.36,70,Hockey (Field),872,647,1000,722,1000,1000
+Australia,Victoria,Male,13,Right-handed,163,28,169,2,Rail (Train/Tram/Subway),22,0.35,44,Other activities/sports,1000,1000,1000,1000,1,1
+UK,North East,Female,14,Right-handed,162,24,158,1,Bus,10,0.98,51,Other activities/sports,500,638,642,653,924,946
+New Zealand,Northland,Female,13,Ambidextrous,185,22,185,2,Walk,5,0.391,,Hockey (Field),750,,250,,,
+New Zealand,Bay of Plenty,Female,13,Right-handed,168,23,167,1,Walk,25,1.922,,Netball,500,,250,,,
+New Zealand,Auckland,Male,13,Right-handed,171,26,171,1,Bus,45,0.531,,Rugby,750,,750,,,
+Australia,Western Australia,Male,15,Left-handed,180,30,190,3,Car,15,0.26,28,Hockey (Field),143,1000,498,137,1000,1000
+UK,North West,Male,16,Right-handed,170,26,176,3,Bus,10,11.31,31,Football/Soccer,0,0,1000,1000,1000,1000
+Canada,Alberta,Male,12,Right-handed,146,23,140.5,1,Car,10,0.422,70,Golf,1000,1000,1000,1000,1000,1000
+Australia,South Australia,Male,16,Right-handed,177,26,179,2,Walk,5,0.37,34,Football/Soccer,450,557,834,716,107,326
+Australia,New South Wales,Male,10,Right-handed,135,22,110,1,Walk,10,0.49,84,Football/Soccer,1000,1000,1000,1000,72,409
+Australia,South Australia,Male,12,Right-handed,163,30,165,1,Car,20,,,Basketball,385,900,421,184,131,941
+Australia,Victoria,Male,11,Right-handed,150,20,140,1,Car,8,0.39,41,Baseball/Softball,1000,1000,1000,1000,178,769
+Australia,Australian Capitol Territory,Female,11,Right-handed,15,22,146,2,Car,3,0.36,37,Swimming,1000,1000,1000,1000,155,403
+New Zealand,Canterbury,Male,9,Right-handed,148,45,151,2,Walk,5,0.625,,Rugby,1000,,1000,,,
+Canada,Ontario,Male,14,Right-handed,167,22,150,1,Walk,5,0.266,36,Swimming,380,150,444,374,920,1000
+New Zealand,Manawatu-Wanganui,Male,15,Right-handed,170,23,170,1,Cycle,15,0.296,,Basketball,250,,250,,,
+Canada,Île-du-Prince-Édouard,Male,13,Right-handed,162,27,162,2,Bus,23,0.33,53,Hockey (Ice),1000,1000,1000,1000,1000,1000
+Australia,Victoria,Female,14,Right-handed,168,24,158,2,Rail (Train/Tram/Subway),30,0.37,79,Netball,551,539,1000,1000,243,232
+New Zealand,Waikato,Male,12,Left-handed,144,23,135,1,Bus,15,0.399,,Football/Soccer,500,,750,,,
+New Zealand,Otago,Female,13,Right-handed,167,17,167,2,Car,15,0.485,,Netball,1000,,750,,,
+Australia,Western Australia,Female,14,Right-handed,53,21,131,1,Walk,2,0.42,33,Hockey (Field),539,533,533,545,427,362
+Australia,South Australia,Female,15,Right-handed,172,24,171,5,Rail (Train/Tram/Subway),45,0.29,29,Other activities/sports,781,699,905,687,1000,1000
+New Zealand,Auckland,Female,16,Right-handed,161,27,161,1,Car,15,0.361,,Cycling,750,,750,,,
+UK,North West,Female,14,Right-handed,158,23,152,1,Car,10,0.4,43,Dancing,611,991,729,758,500,767
+New Zealand,Auckland,Female,12,Right-handed,160,23,154,2,Car,5,0.392,,Table Tennis,1000,,1000,,,
+Canada,Ontario,Male,10,Right-handed,150.5,24,148,5,Bus,20,0.618,46,Basketball,770,572,984,963,797,872
+New Zealand,Hawkes Bay,Male,13,Right-handed,157,25,150,1,Walk,15,0.375,,Hockey (Field),500,,500,,,
+Australia,Victoria,Male,15,Right-handed,182,27,173,2,Rail (Train/Tram/Subway),45,0.45,47,Basketball,1000,1000,1000,1000,379,385
+Canada,Yukon,Male,14,Right-handed,167,28.5,168,1,Car,15,0.297,38,Hockey (Ice),1000,1000,1000,1000,1000,1000
+Australia,South Australia,Female,11,Right-handed,154,22,154,1,Walk,1,0.4,40,Netball,468,444,610,415,125,119
+UK,Home Counties,Female,13,Right-handed,165,23,150,1,Bus,20,0.42,46,Other activities/sports,685,530,651,629,940,949
+Canada,Alberta,Male,15,Right-handed,168,34,162,5,Bus,30,0.735,51,Swimming,1000,706,904,893,471,353
+New Zealand,Auckland,Female,13,Right-handed,162,23,156,2,Car,5,0.42,,Rugby,500,,500,,,
+UK,North West,Male,11,Right-handed,138,20,137,2,Bus,15,0.31,49,Other activities/sports,690,569,683,685,403,275
+UK,South West,Female,13,Right-handed,151,22,137,1,Bus,20,3.41,39,Other activities/sports,0,0,0,0,0,0
+Australia,South Australia,Female,15,Left-handed,175,26,172,1,Car,4,0.35,33,Netball,539,533,557,681,663,870
+UK,East Midlands,Male,14,Right-handed,168,27,174,1,Bus,30,0.28,29,Football/Soccer,161,161,129,194,258,97
+Canada,Nova Scotia,Male,19,Right-handed,181.5,25,189,2,Bus,15,0.468,51,Other activities/sports,1000,1000,1000,1000,1000,1000
+New Zealand,Waikato,Male,16,Left-handed,168,26,134,2,Car,15,0.388,,Basketball,1000,,1000,,,
+Australia,South Australia,Female,12,Right-handed,164,24,163,1,Car,3,0.24,43,Cricket,923,764,1000,764,545,545
+Australia,New South Wales,Female,12,Left-handed,156,23,154,1,Bus,30,0.58,64,Dancing,587,647,761,713,312,318
+New Zealand,Auckland,Male,14,Right-handed,162,24,168,1,Bus,45,0.39,,Football/Soccer,0,,0,,,
+Australia,Victoria,Female,15,Right-handed,167,23,160,1,Bus,15,0.35,35,Cycling,1000,1000,1000,498,326,1000
+Australia,Western Australia,Male,12,Right-handed,170,27,160,1,Car,25,0.24,40,Basketball,421,610,456,557,444,657
+New Zealand,Auckland,Female,14,Right-handed,180,27,175,1,Bus,25,2.691,,Netball,1000,,1000,,,
+Australia,Victoria,Female,11,Right-handed,143,23,158,1,Car,5,0.46,41,Basketball,1000,1000,1000,994,,498
+UK,London,Female,17,Left-handed,161,24,161,2,Bus,15,3.79,31,Dancing,1000,1000,1000,1000,500,1000
+UK,West Midlands,Male,12,Right-handed,167,27.5,170,2,Car,5,0.36,33,Skateboarding/Rollerblading,0,129,258,63,1000,1000
+Canada,Ontario,Male,18,Right-handed,170,26,168,4,Walk,30,0.437,41,Other activities/sports,786,781,845,850,1000,1000
+UK,South West,Male,14,Right-handed,168,26.5,166,1,Walk,10,0.39,30,Rugby Union,485,548,710,581,613,613
+Australia,Victoria,Female,12,Right-handed,155,23,125,2,Rail (Train/Tram/Subway),45,0.36,35,Swimming,976,722,1000,864,574,858
+Australia,Queensland,Male,14,Right-handed,176,27,176,1,Other,20,0.42,51,Other activities/sports,,,,,1000,1000
+Australia,South Australia,Male,13,Ambidextrous,150,23,140,1,Bus,25,0.29,26,Cricket,1000,414,791,725,1000,527
+Australia,Queensland,Female,12,Right-handed,154,24,162,1,Bus,15,0.33,37,Hockey (Field),551,722,551,539,486,350
+New Zealand,West Coast,Male,10,Right-handed,100,18,108,1,Car,45,0.804,,Cycling,1000,,500,,,
+New Zealand,Otago,Male,10,Right-handed,127,20,126,1,Bus,25,1.578,,Rugby,500,,750,,,
+Canada,British Columbia,Male,10,Right-handed,140,22.5,140.5,9,Cycle,5,0.484,79,Swimming,508,519,529,497,503,497
+Australia,New South Wales,Female,11,Left-handed,150,24,144,2,Car,12,0.37,51,Swimming,858,852,1000,917,545,764
+UK,East,Female,14,Right-handed,169,26,172,1,Bus,20,0.48,51,Baseball/Softball,884,877,732,1000,50,406
+Canada,Alberta,Male,10,Right-handed,137.5,20,132,2,Bus,5,0.407,50,Hockey (Ice),1000,11,11,5,11,16
+Australia,Victoria,Female,13,Right-handed,140,22,136,1,Car,10,0.35,33,Baseball/Softball,533,243,710,208,539,734
+Canada,Saskatchewan,Female,15,Right-handed,167,22,160,1,Car,5,0.503,46,Football/Soccer,770,647,481,893,1000,1000
+New Zealand,Otago,Female,12,Right-handed,146,21,143,1,Walk,5,0,,Running/Jogging,1000,,500,,,
+New Zealand,Auckland,Female,10,Right-handed,127,12,112,3,Walk,5,0.527,,Netball,500,,500,,,
+Australia,South Australia,Male,13,Right-handed,150,24,142,1,Bus,30,0.43,44,Football/Soccer,1000,1000,1000,775,444,450
+UK,East Midlands,Female,11,Right-handed,120,20,120,1,Walk,40,0.45,43,Athletics,1000,1000,1000,719,994,1000
+UK,North West,Male,15,Left-handed,185,26.5,181,1,Bus,15,0.37,49,Skateboarding/Rollerblading,245,221,317,334,739,765
+New Zealand,Auckland,Male,14,Ambidextrous,165,23,170,1,Walk,45,0.359,,Hockey (Ice),0,,250,,,
+Australia,New South Wales,Male,12,Right-handed,152,15,52,1,Bus,25,0.56,50,Martial arts,1000,629,1000,1000,1000,1000
+Australia,Victoria,Female,12,Right-handed,160,25,160,1,Car,5,0.43,26,Netball,1000,1000,1000,1000,255,261
+Canada,Ontario,Female,18,Right-handed,165,24.5,166,3,Bus,30,0.406,42,Dancing,1000,957,604,850,1000,1000
+Australia,Western Australia,Male,13,Right-handed,166,26,170,1,Bus,9,0.37,40,Football/Soccer,297,492,302,279,568,799
+Australia,South Australia,Male,14,Right-handed,159,26,128,1,Bus,10,0.29,46,Football/Soccer,521,1000,1000,1000,1000,1000
+Australia,Western Australia,Female,13,Right-handed,160,25,160,1,Walk,6,0.39,47,Other activities/sports,1000,1000,545,988,740,693
+Canada,British Columbia,Female,13,Ambidextrous,148,22.5,148,5,Walk,5,0.457,63,Dancing,791,1000,1000,604,877,1000
+Australia,Victoria,Male,7,Right-handed,126,23,114,1,Car,10,0.36,63,Football/Soccer,1000,1,1000,965,480,
+Australia,New South Wales,Male,14,Right-handed,178,26,164,2,Bus,40,0.42,49,Table Tennis,533,746,704,639,545,208
+USA,ID,Male,18,Right-handed,176,26,80,2,Car,10,0.515,61,Walking/Hiking,60,210,0,,630,540
+USA,CA,Female,17,Right-handed,60,22,160,2,Car,15,0.7,45,Martial Arts,960,920,850,850,900,875
+USA,VA,Male,17,Right-handed,180,24,180,1,Car,20,0.342,38,Football (American),699,523,678,500,50,17
+USA,IN,Female,17,Right-handed,176,27,174,1,Car,6,0.263,35,Basketball,500,430,425,,900,1000
+USA,OH,Male,10,Right-handed,135,23,135,1,Car,15,0.392,35,Baseball/Softball,1000,1000,1000,1000,500,500
+USA,SC,Male,15,,,,,,,,,,,,,,,,
+USA,MD,Female,13,Right-handed,162,26,164,1,Car,8,3,46,Baseball/Softball,,,,,,
+USA,ID,Female,17,Right-handed,166,25,159,1,Car,15,0.485,41,Dancing,9,7,8,6,5,4
+USA,HI,Male,13,Right-handed,64,10.25,160,2,Car,10,1,20,Athletics,,,,,,
+USA,OH,Male,16,Right-handed,545,100,530,2,Bus,20,0.234,49,Martial Arts,86,86,1000,1000,1000,1000
+USA,OH,Male,12,Right-handed,157,24,150,1,Bus,80,0.281,44,Football (American),1000,1000,400,,150,1000
+USA,VA,Male,19,Left-handed,172,27,175,1,Bus,47,0.337,32,Football (American),9,3,501,300,854,1000
+USA,SC,Male,16,Right-handed,172.7,24.1,177.8,3,Car,4,0.048,35,Other,500,600,800,800,300,400
+USA,DC,Male,11,Left-handed,156,26,169,2,Car,30,1.745,72,Soccer,1000,9200,300,1000,200,173
+USA,CA,Male,17,Right-handed,174,,,2,Car,7,0.29,35,Swimming,1000,500,0,0,1000,1000
+USA,SC,Male,16,Right-handed,165,25,165,2,Car,10,0.415,42,Other,13,12,1000,12,1000,1000
+USA,ID,Male,16,Right-handed,160,24,167,2,Car,7,0.295,54,Tennis,200,500,0,500,600,700
+USA,MO,Male,18,Right-handed,178,25,175,1,Car,6,0.33,37,Baseball/Softball,200,200,200,200,300,750
+USA,DC,Female,12,Right-handed,165,20,149,2,Car,23,0.641,39,Other,700,700,800,850,900,1000
+USA,GA,Female,16,Right-handed,169,17,60,2,Car,25,23,45,Running/Jogging,1000,1000,1000,,1000,1000
+USA,ID,Male,18,Right-handed,75.5,26,83.2,1.5,Car,3,0.227,31,Table Tennis,535,674,594,,759,759
+USA,MA,Female,13,Right-handed,158,22,151,1,Car,10,0.413,36,,,,,,,
+USA,PA,Male,16,Right-handed,170,28,170,2,Car,12,0.085,40,Martial Arts,500,500,500,500,800,800
+USA,MA,Female,13,Ambidextrous,206,53,178,3,Bus,35,0.252,28,Baseball/Softball,893,481,674,797,444,578
+USA,NC,Male,14,Right-handed,58,26,29,1,Bus,20,0.334,49,Basketball,50,100,95,100,100,100
+USA,PA,Female,17,Right-handed,154,22.5,152,1,Car,5,0.43,74,Dancing,1000,900,850,500,1000,1000
+USA,GU,Male,17,Left-handed,169,24.5,177,2,Bus,20,0.764,83,Swimming,10001,1000,1000,10008,86,70
+USA,IN,Female,17,Right-handed,178,24.4,187,1,Car,210,0.325,43,None,118,155,251,32,1000,1000
+USA,IL,Male,17,Right-handed,172,26,180,1,Car,13,0.331,48,Other,0,0,0,0,1000,1000
+USA,WI,Male,12,Right-handed,,,,,Bus,,,,Basketball,,,,,,
+USA,NV,Female,13,Ambidextrous,60,3,30,2,Car,25,0.36,56,Athletics,1000,1000,1000,1000,0,150
+USA,GA,Female,11,Right-handed,152,25,160,1,Bus,45,0.426,40,Basketball,1000,999,100,,500,500
+USA,PA,Male,15,Right-handed,180,18,156,2,Bus,10,0.2,36,Martial Arts,500,600,600,900,890,900
+USA,TX,Female,17,Right-handed,164,23,50,1,Car,5,0.422,,Other,800,800,1000,1000,500,600
+USA,GA,Female,17,Right-handed,161,21,153,1,Car,40,0.369,35,Running/Jogging,800,750,500,950,900,900
+USA,WI,Female,12,Right-handed,56,24,54,1,Car,5,0.726,36,Swimming,652,455,856,717,134,59
+USA,MD,Male,15,Right-handed,162,,,3,Bus,15,0.377,57,Golf,10000,10000,10000,10000,10000,10000
+USA,IN,Female,17,Right-handed,163,26,164,2,Car,15,0.394,34,Other,500,500,1000,500,1000,1000
+USA,AZ,Female,13,Right-handed,151,23,158,1,Car,10,0.675,57,Gymnastics,350,200,1000,,250,250
+USA,WY,Female,15,Right-handed,161,23.5,161.5,1,Car,10,0.358,50,Tennis,678,499,387,,546,422
+USA,OH,Female,17,Right-handed,1651,24,1689,1,Car,25,0.733,20,Swimming,900,1000,900,,800,1000
+USA,TX,Male,9,Right-handed,,,,2,Car,20,,,Soccer,1000,1000,1000,1000,,
+USA,WI,Female,14,Right-handed,5.8,,,1,Bus,10,0.339,45,Baseball/Softball,572,267,540,663,1000,1000
+USA,SC,Male,16,Left-handed,175,28,,1,Car,3,0.703,54,Football (American),400,500,200,500,600,600
+USA,MI,Male,17,Right-handed,185,27,184,1,Car,10,0.297,33,Soccer,332,225,439,572,187,139
+USA,GA,Male,17,Right-handed,192,31,198,2,Car,12,0.292,32,Football (American),900,960,980,990,700,800
+USA,SC,Male,18,Right-handed,190,27,60,1,Car,15,0.266,50,Swimming,,,,,,
+USA,FL,Male,17,Right-handed,175,25,186,2,Car,42,0.741,51,Basketball,100,100,800,1000,1000,1000
+USA,MI,Male,15,Right-handed,170.7,28,170,1,Car,15,0.385,40,Football (American),750,500,250,,800,800
+USA,DC,Female,12,Right-handed,154,21,146,2,Car,30,0.361,36,Dancing,1000,1000,1000,1000,0,0
+USA,NC,Male,13,Right-handed,180,24,165,1,Bus,10,0.362,10,Baseball/Softball,16,5,0,5,11,561
+USA,SC,Female,16,Right-handed,162,23,167,2,Car,10,0.386,32,Swimming,578,631,540,588,813,936
+USA,GA,Male,12,Right-handed,157,26,169,2,Bus,9,0.343,36,Basketball,1000,1000,1000,736,32,21
+USA,HI,Male,17,Right-handed,172.7,28.5,178,1,Car,20,0.214,,Baseball/Softball,,,,,,
+USA,PA,Female,17,Right-handed,162,22,157,2,Car,6,0.439,40,Other,900,800,800,500,1000,1000
+USA,FL,Female,18,Right-handed,164,24,156,2,Car,25,0.269,33,Swimming,412,417,556,,1000,1000
+USA,CA,Male,12,Right-handed,169,28,175.5,2,Bus,20,0.309,38,Other,10000,10000,10000,,10000,99999
+USA,MI,Female,17,Right-handed,163,21,158,1,Car,2,1.997,42,Other,500,100,700,800,1000,1000
+USA,NC,Male,16,Right-handed,180,27,185,1,Car,10,0.303,40,Baseball/Softball,636,642,363,636,545,481
+USA,CO,Male,17,Left-handed,183,26,182,2,Car,20,0.405,40,Running/Jogging,800,700,700,800,1000,1000
+USA,MI,Female,17,Right-handed,65,23,170,2,Car,7,0.329,35,Dancing,700,600,100,,500,200
+USA,NY,Female,11,Left-handed,148,24,147,2,Walk,10,0.39,40,Dancing,652,652,652,652,551,551
+USA,NC,Female,14,Right-handed,161,23,137,1,Car,5,0.803,36,Running/Jogging,455,455,321,321,800,1000
+USA,GU,Female,15,Right-handed,158.8,20.5,163,3,Bus,8,1.778,59,Baseball/Softball,500,999,999,999,0,3
+USA,CT,Female,17,Right-handed,165,,167,2,Car,15,0.33,55,Dancing,800,500,,,,
+USA,IL,Female,12,Right-handed,153,22,153,2,Car,14,0.32,36,Other,500,599,470,674,952,900
+USA,IN,Female,17,Right-handed,162,23.5,168,1,Car,8,0.568,35,Soccer,1000,1000,1000,,1000,1000
+USA,FL,Male,19,Right-handed,182.9,28.57,195,2,Car,11,0.38,45,Rowing,400,200,200,400,900,800
+USA,WI,Male,12,Right-handed,144,25,147,2,Car,3,0.386,56,Other,1000,1000,1000,1000,500,1000
+USA,PA,,17,Right-handed,185,24,185,1,Car,5,0.555,68,Football (American),30,20,400,600,900,950
+USA,GA,Male,11,Right-handed,156,27,159,5,Car,6,0.023,12,,,,,,,
+USA,MI,Female,17,Right-handed,165,22,158,2,Car,12,0.233,34,Table Tennis,850,750,900,900,400,800
+USA,SC,Male,17,Right-handed,179,25,94,1,Car,30,0.047,35,Other,497,497,497,,1000,1000
+USA,DC,Male,16,Right-handed,73.6,12,90,1,Bus,20,0.703,89,Bowling,500,900,850,,1000,900
+USA,MO,Female,17,Right-handed,157,24,155.5,1,Car,30,0.937,,Walking/Hiking,642,642,503,508,401,401
+USA,PA,Female,17,Right-handed,168,24,162,1,Car,10,,,Football (American),,,,,,
+USA,SC,Female,16,Right-handed,161,23,152,1,Car,10,0.333,38,Tennis,100,800,200,850,400,700
+USA,SC,Male,17,Right-handed,164,28,164,1,Car,6,0.234,46,Walking/Hiking,50,51,48,,1000,1000
+USA,NV,Male,13,Right-handed,56,,,,,,,,,,,,,,
+USA,NM,Female,17,Right-handed,162,23,168,2,Car,5,0.314,71,Other,500,200,100,,10,20
+USA,OK,Female,15,Right-handed,157,22,152,2,Car,10,0.733,45,Walking/Hiking,100,100,1000,90,900,800
+USA,CA,Male,17,Right-handed,180.4,26.2,181,1,Car,17,0.881,36,Soccer,846,912,950,950,1000,1000
+USA,CA,Female,16,Right-handed,,,,1,Car,15,0.42,39,Walking/Hiking,,,,,,
+USA,SC,Male,18,Right-handed,181,29,194,1,Car,10,0.453,73,Baseball/Softball,800,500,1000,,50,100
+USA,KY,Male,17,Right-handed,184,27,185,2,Car,22,0.438,35,Walking/Hiking,950,800,950,,500,900
+USA,CA,Female,11,Right-handed,155,22.9,150,2,Car,4,0.299,38,Dancing,1000,1000,1000,1000,513,743
+USA,GA,Male,16,Right-handed,175,31,183,2,Car,25,0.456,38,Basketball,112,96,476,471,888,914
+USA,AZ,Female,16,Right-handed,165.1,22.5,168,1,Car,11,0.36,35,Swimming,412,476,251,246,1000,1000
+USA,SC,Male,15,Right-handed,170,26,164,1,Car,8,0.883,103,Golf,600,500,750,500,500,500
+USA,NH,Male,17,Ambidextrous,170,22,165,0,Bus,5,0.29,36,Martial Arts,0,0,0,0,1,1
+USA,CA,Female,17,Right-handed,165,23,167,2,Car,5,0.39,33,None,780,960,850,840,1000,1000
+USA,CO,Female,15,Right-handed,167.6,,,,,,,,,,,,,,
+USA,CA,Female,17,Right-handed,157.4,,,2,Car,10,0.468,41,Soccer,100,50,45,30,60,70
+USA,GA,Male,17,Right-handed,183,31,190,2,Car,4,0.329,36,Golf,69,69,69,,69,69
+USA,PA,Male,16,Right-handed,183,26,189,2,Bus,30,0.3,41,Other,807,861,845,845,861,872
+USA,IN,Male,18,Right-handed,180,25,175,1,Car,5,0.3,45,None,1000,1000,1000,,1000,1000
+USA,NJ,Female,17,Right-handed,,25,186,2,Walk,3,,,Soccer,900,900,900,,1000,600
+USA,PA,Female,10,Right-handed,140,22.5,138,2,Car,2,0.484,55,Gymnastics,0,1000,1000,1000,1000,1000
+USA,CA,Male,17,Right-handed,182.9,26.5,182.9,3,Car,30,0.318,40,Soccer,700,700,1000,900,600,1000
+USA,SC,Female,16,Left-handed,152,25,152,2,Car,10,0.656,27,Basketball,540,1000,417,,759,1000
