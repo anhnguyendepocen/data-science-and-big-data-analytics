@@ -1,20 +1,20 @@
-# Two Day Workshop on Insights of Data Science
+#  Data Science
 
 
-##RStudio is an integrated development environment (IDE) for R. 
+## RStudio is an integrated development environment (IDE) for R. 
 It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.
 
-####How to Install R Studio
+#### How to Install R Studio
 In order to run R and R-studio on your system, you need to follow the following three steps in the same order.
 
 1. Install R
 2. Install R-Studio
 3. Install R-Packages (If needed)
 
-###Install R
+### Install R
 Follow the steps below with respect to the operating system you are using
 
-#####For Windows :
+##### For Windows :
 -----
 Download the binary setup file for R from the following link.
 
@@ -22,7 +22,7 @@ Download the binary setup file for R from the following link.
 Open the downloaded .exe file and Install R
 
 
-#####For Mac :
+##### For Mac :
 -----
 Download the appropriate version of .pkg file form the following link. 
 
@@ -30,7 +30,7 @@ Download the appropriate version of .pkg file form the following link.
 Open the downloaded .pkg file and Install R
 
 
-#####For Linux :
+##### For Linux :
 -----
 For complete R System installation in Linux, follow the instructions on the following link 
 
@@ -50,22 +50,22 @@ If your need to use R requires a particular package/library to be installed in R
 4. In the Install Packages dialog, write the package name you want to install under the Packages field and then click install. 
 5. This will install the package you searched for or give you a list of matching package based on your package text.
 
-##Installing Anaconda 
+## Installing Anaconda 
 
 Download the Anaconda [installer](https://www.continuum.io/downloads)
 
-#####Windows install
+##### Windows install
 -----
 
 Double click the Anaconda installer and follow the prompts to install to the default location.
 
-#####OS X graphical install
+##### OS X graphical install
 -----
 
 Double click the .pkg file. Answer the prompts on Introduction, Read Me, and License screens.
 And proceed as normal setup.
 
-#####OS X command line install
+##### OS X command line install
 -----
 
 + Go to the [DOWNLOAD ANACONDA NOW](https://www.continuum.io/downloads) page. Beneath the “Graphical Installer” buttons for Anaconda for OS X, there are command-line text links for Python versions 2.7 and 3.5.
@@ -78,7 +78,7 @@ Or for Python 3.5 enter the following:
 
 + The output of a successful installation will include the messages “Installation finished.” and “Thank you for installing Anaconda!”
 
-#####Linux install
+##### Linux install
 -----
 
 + Open a terminal window and type the following:
@@ -87,7 +87,7 @@ Or for Python 3.5 enter the following:
 
 + Follow the prompts on the installer screens, and if unsure about any setting, simply accept the defaults, as they can all be changed later.
 
-#####Configuring R for NoteBooks
+##### Configuring R for NoteBooks
 -----
 Install the R Essentials package with the conda install command.
 
@@ -104,7 +104,7 @@ R-Essentials works very much like Anaconda:
 + Update a single package in R-Essentials (if a new version of the package is available in the R channel) with the command:
 `conda update r-XXXX`
 
-#####Native R kernel for Jupyter
+##### Native R kernel for Jupyter
 -----
 Install IRkernel package via the devtools package:
 
